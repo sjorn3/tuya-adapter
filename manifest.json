@@ -1,5 +1,5 @@
 {
-  "author": "Galveston01",
+  "author": "Galveston01-dev",
   "description": "Tuya Smart Life IoT devices support",
   "gateway_specific_settings": {
     "webthings": {
@@ -10,7 +10,7 @@
     }
   },
   "homepage_url": "https://github.com/Galveston01/tuya-adapter",
-  "id": "tuya-adapter",
+  "id": "tuya-adapter-dev",
   "license": "GPL-3.0",
   "manifest_version": 1,
   "name": "Tuya Smart Life",
